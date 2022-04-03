@@ -8,6 +8,7 @@
 - css, scss
 - file loader (image)
 - async/await feature
+- dotenv
 
 ## Installation
 프로젝트 다운로드
